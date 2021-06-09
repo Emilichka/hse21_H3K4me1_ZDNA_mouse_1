@@ -56,7 +56,7 @@ Genome version: mm10
 
 1. ### Распределение длин участков
 
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/len_hist.mouseZ-DNA1.pdf.png-1.png)
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.mouseZ-DNA1.png)
 
 2. ### Расположение пиков относительно аннотированных генов
 
