@@ -3,8 +3,8 @@ library(dplyr)
 library(magrittr)
 
 
-NAME <- 'H3K4me1_MEL.ENCFF086CHI.mm10'
-NAME <- 'H3K4me1_MEL.ENCFF267GXF.mm10'
+NAME <- 'H3K4me1_H1.ENCFF006PXB.hg19'
+NAME <- 'H3K4me1_H1.ENCFF238YJA.hg19'
 NAME <- 'mouseZ-DNA1'
 
 
@@ -25,7 +25,7 @@ ggsave(paste0('filter_peaks.', NAME , '.init.hist.png'), path = OUT_DIR)
 
 bed_df_new <- bed_df %>%
   arrange(-len) %>%
-  filter(len < 2500)
+  filter(len < 2000)
 
 ggplot(bed_df_new) +
   aes(x = len) +

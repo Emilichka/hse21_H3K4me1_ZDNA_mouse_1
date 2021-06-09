@@ -8,16 +8,17 @@ source('lib.R')
 # BiocManager::install("org.Mm.eg.db")
 
 library(ChIPpeakAnno)
-library(TxDb.Mmusculus.UCSC.mm10.knownGene)
-library(org.Mm.eg.db)
+library(TxDb.Hsapiens.UCSC.hg19.knownGene)
+library(org.Hs.eg.db)
 
 ###
 
 
-peaks <- toGRanges(paste0(DATA_DIR, 'H3K4me1_MEL.intersect_with_mouseZDNA1.bed'), format="BED")
+
+peaks <- toGRanges(paste0(DATA_DIR, 'H3K4me1_H1.intersect_with_DeepZ.bed'), format="BED")
 peaks[1:2]
 
-annoData <- toGRanges(TxDb.Mmusculus.UCSC.mm10.knownGene, single.strand.genes.only=FALSE)
+annoData <- toGRanges(TxDb.Hsapiens.UCSC.hg19.knownGene, single.strand.genes.only=FALSE)
 annoData[1:2]
 
 
@@ -27,13 +28,13 @@ anno <- annotatePeakInBatch(peaks, AnnotationData=annoData,
                             bindingRegion=c(-2000, 300))
 data.frame(anno) %>% head()
 
-anno$symbol <- xget(anno$feature, org.Mm.egSYMBOL)
+anno$symbol <- xget(anno$feature, org.Hs.egSYMBOL)
 data.frame(anno) %>% head()
 
 anno_df <- data.frame(anno)
-write.table(anno_df, file=paste0(DATA_DIR, 'H3K4me1_MEL.intersect_with_mouseZDNA1.genes.txt'),
+write.table(anno_df, file=paste0(DATA_DIR, 'H3K4me1_H1.intersect_with_DeepZ.genes.txt'),
             col.names = TRUE, row.names = FALSE, sep = '\t', quote = FALSE)
 
 uniq_genes_df <- unique(anno_df['symbol'])
-write.table(uniq_genes_df, file=paste0(DATA_DIR, 'H3K4me1_MEL.intersect_with_mouseZDNA1.genes_uniq.txt'),
+write.table(uniq_genes_df, file=paste0(DATA_DIR, 'H3K4me1_H1.intersect_with_DeepZ.genes_uniq.txt'),
             col.names = FALSE, row.names = FALSE, sep = '\t', quote = FALSE)

@@ -48,7 +48,16 @@ Genome version: mm10
 
 3. ### Визуализация пиков и их объединения
 
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/source_merge.png)
+4. `track visibility=dense name="ENCFF267GXF"  description="H3K4me1_MEL.ENCFF267GXF.mm10.filtered.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.ENCFF267GXF.mm10.filtered.bed
+
+   track visibility=dense name="ENCFF086CHI"  description="/H3K4me1_MEL.ENCFF086CHI.mm10.filtered.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.ENCFF086CHI.mm10.filtered.bed
+
+   track visibility=dense name="ChIP_merge"  color=50,50,200   description="H3K4me1_MEL.merge.mm10.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.merge.mm10.bed`
+
+5. ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/source_merge.png)
 
    ## Анализ вторичной структуры ДНК 
 
@@ -76,7 +85,7 @@ Genome version: mm10
 
 3. ### Визуализация исходных участков ДНК и пересечения с гистоновой меткой
 
-   Ссылка на сохраненную сессию: http://genome.ucsc.edu/s/namikhnenko/H3K4me3_ZDNA_ES_E14
+4. Ссылка на сохраненную сессию: http://genome.ucsc.edu/s/namikhnenko/H3K4me3_ZDNA_ES_E14
 
    chr1:3,670,546-3,671,504
 
@@ -86,13 +95,13 @@ Genome version: mm10
 
    ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/inter4.png)
 
-4. ### Ассоциация пересечений с генами
+5. ### Ассоциация пересечений с генами
 
    Количество пиков, которые удалось проассоциировать: 1125
 
    Количество уникальных генов: 1088
 
-5. ### GO анализ
+6. ### GO анализ
 
 Общая информация
 

@@ -1,8 +1,9 @@
 source('lib.R')
 
 
-NAME <- c('H3K4me1_MEL.ENCFF086CHI.mm10', 'H3K4me1_MEL.ENCFF267GXF.mm10', 'mouseZ-DNA1') #'H3K4me1_MEL.intersect_with_mouseZDNA1')
-
+NAME <- c('H3K4me1_H1.ENCFF006PXB.hg19', 'H3K4me1_H1.ENCFF238YJA.hg19') 
+NAME <- c('H3K4me1_H1.intersect_with_DeepZ')
+NAME <- c('H3K4me1_H1.merge.hg19')
 ###
 for (name in NAME) {
     bed_df <- read.delim(paste0(DATA_DIR, name, '.bed'), as.is = TRUE, header = FALSE)
