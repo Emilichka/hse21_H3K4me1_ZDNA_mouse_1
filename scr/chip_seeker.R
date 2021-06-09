@@ -2,7 +2,7 @@ library(ChIPseeker)
 #library(TxDb.Hsapiens.UCSC.hg19.knownGene)
 library(TxDb.Mmusculus.UCSC.mm10.knownGene)
 library(clusterProfiler)
-BiocManager::install("org.Mm.eg.db")
+#BiocManager::install("org.Mm.eg.db")
 source('lib.R')
 
 

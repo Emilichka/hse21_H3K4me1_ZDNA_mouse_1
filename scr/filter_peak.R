@@ -23,7 +23,7 @@ ggsave(paste0('filter_peaks.', NAME , '.init.hist.png'), path = OUT_DIR)
 
 bed_df_new <- bed_df %>%
   arrange(-len) %>%
-  filter(len < 2200)
+  filter(len < 3000)
 
 ggplot(bed_df_new) +
   aes(x = len) +
