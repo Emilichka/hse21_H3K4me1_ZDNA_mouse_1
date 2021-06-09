@@ -1,0 +1,146 @@
+#Deleted in new
+chr1	133894458	133894526	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_55	328
+#Deleted in new
+chr10	16160477	16160774	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_100	118
+#Partially deleted in new
+chr10	59571759	59572041	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_139	64
+#Deleted in new
+chr10	83216137	83216450	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_194	24
+#Deleted in new
+chr10	111121476	111121551	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_223	59
+#Deleted in new
+chr10	111121700	111121852	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_223	59
+#Deleted in new
+chr11	46075358	46075475	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_300	24
+#Partially deleted in new
+chr11	49901715	49901756	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_305	241
+#Deleted in new
+chr11	54806896	54807258	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_315	239
+#Deleted in new
+chr11	72467655	72468153	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_346	24
+#Partially deleted in new
+chr13	58358768	58358795	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_611	104
+#Deleted in new
+chr13	119428150	119428325	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_664	151
+#Deleted in new
+chr14	61174830	61174969	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_727	36
+#Deleted in new
+chr15	12631993	12632416	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_796	107
+#Deleted in new
+chr15	73724597	73724640	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_848	76
+#Partially deleted in new
+chr15	95654134	95654488	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_930	36
+#Deleted in new
+chr15	96818031	96818230	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_938	36
+#Partially deleted in new
+chr16	18626804	18626823	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_998	34
+#Deleted in new
+chr16	92806802	92807130	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1069	56
+#Partially deleted in new
+chr16	93125633	93125955	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1071	64
+#Deleted in new
+chr16	93713377	93713474	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1072	35
+#Deleted in new
+chr17	25302557	25302860	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1129	37
+#Deleted in new
+chr17	28211066	28211161	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1142	95
+#Deleted in new
+chr17	28846329	28846541	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1147	49
+#Partially deleted in new
+chr17	29193368	29193677	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1148	120
+#Partially deleted in new
+chr17	47982107	47982190	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1186	14
+#Deleted in new
+chr17	50529027	50529151	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1192	198
+#Partially deleted in new
+chr17	56476600	56476646	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1201	193
+#Partially deleted in new
+chr17	65770322	65770569	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1211	155
+#Partially deleted in new
+chr17	65770832	65770873	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1211	155
+#Deleted in new
+chr17	71294457	71294471	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1234	120
+#Deleted in new
+chr17	79972933	79973251	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1251	79
+#Deleted in new
+chr17	84792388	84792492	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1271	64
+#Deleted in new
+chr18	53214050	53214392	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1318	36
+#Deleted in new
+chr18	53214531	53214537	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1318	36
+#Deleted in new
+chr19	3634648	3634901	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1372	228
+#Deleted in new
+chr19	16766808	16767188	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1414	77
+#Partially deleted in new
+chr19	29414784	29415221	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1442	93
+#Deleted in new
+chr19	46986018	46986336	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1500	50
+#Deleted in new
+chr19	53906606	53906971	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1527	145
+#Partially deleted in new
+chr19	55062854	55063042	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1534	400
+#Deleted in new
+chr19	58243297	58243664	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1549	71
+#Deleted in new
+chr2	31448333	31448441	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1602	56
+#Partially deleted in new
+chr2	36205799	36206409	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1615	36
+#Partially deleted in new
+chr2	153530458	153530586	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1747	193
+#Deleted in new
+chr2	155778902	155779120	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1755	43
+#Deleted in new
+chr2	172256451	172256549	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1801	64
+#Partially deleted in new
+chr3	96594386	96594663	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1888	147
+#Deleted in new
+chr3	145163083	145163261	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1928	222
+#Deleted in new
+chr4	41082076	41082374	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_1977	25
+#Partially deleted in new
+chr4	106828289	106828508	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2043	18
+#Deleted in new
+chr4	125036140	125036266	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2084	120
+#Deleted in new
+chr4	150747909	150748114	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2163	30
+#Deleted in new
+chr4	151933424	151933469	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2167	253
+#Deleted in new
+chr5	65991694	65991939	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2260	71
+#Deleted in new
+chr5	125166597	125166765	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2356	405
+#Partially deleted in new
+chr5	137598643	137599109	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2390	103
+#Deleted in new
+chr5	139196131	139196731	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2395	56
+#Partially deleted in new
+chr5	144277653	144277748	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2415	56
+#Partially deleted in new
+chr7	27446403	27446417	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2609	106
+#Deleted in new
+chr7	126925768	126925934	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2723	112
+#Deleted in new
+chr7	141768266	141768326	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2748	175
+#Deleted in new
+chr8	81775929	81776143	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2856	72
+#Deleted in new
+chr8	81776191	81776273	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2856	72
+#Deleted in new
+chr8	117083614	117083931	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2915	49
+#Deleted in new
+chr8	117549011	117549556	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2917	30
+#Deleted in new
+chr8	121169664	121170031	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2934	39
+#Deleted in new
+chr8	126846546	126846904	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2986	49
+#Deleted in new
+chr8	126846944	126846999	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_2986	49
+#Deleted in new
+chr9	45506150	45506262	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_3016	36
+#Deleted in new
+chr9	78060002	78060140	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_3054	126
+#Partially deleted in new
+chr9	107306495	107306975	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_3082	18
+#Deleted in new
+chr9	108135022	108135391	curax_10h_14h_Z22_vs_IgG__ZBP1_KO-macs2_peak_3083	49

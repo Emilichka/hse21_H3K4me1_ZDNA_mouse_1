@@ -1,11 +1,13 @@
 source('lib.R')
+library(dplyr)
 library(magrittr)
 
 
 NAME <- 'H3K4me1_MEL.ENCFF086CHI.mm10'
 NAME <- 'H3K4me1_MEL.ENCFF267GXF.mm10'
 NAME <- 'mouseZ-DNA1'
- 
+
+
 
 bed_df <- read.delim(paste0(DATA_DIR, NAME , '.bed'), as.is = TRUE, header = FALSE)
 colnames(bed_df) <- c('chrom', 'start', 'end', 'name', 'score')
@@ -23,7 +25,7 @@ ggsave(paste0('filter_peaks.', NAME , '.init.hist.png'), path = OUT_DIR)
 
 bed_df_new <- bed_df %>%
   arrange(-len) %>%
-  filter(len < 3000)
+  filter(len < 2500)
 
 ggplot(bed_df_new) +
   aes(x = len) +
@@ -33,7 +35,7 @@ ggplot(bed_df_new) +
 ggsave(paste0('filter_peaks.',NAME , '.filtered.hist.png'), path = OUT_DIR)
 
 bed_df_new %>%
-  select(-len) %>%
+  dplyr::select(-len) %>%
   write.table(file=paste0(DATA_DIR, NAME  ,'.filtered.bed'),
               col.names = FALSE, row.names = FALSE, sep = '\t', quote = FALSE)
 

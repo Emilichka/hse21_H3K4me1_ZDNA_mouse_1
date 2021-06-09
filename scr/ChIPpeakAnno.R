@@ -3,7 +3,7 @@ source('lib.R')
 ###
 
 # https://bioconductor.org/packages/release/bioc/vignettes/ChIPpeakAnno/inst/doc/quickStart.html
- BiocManager::install("ChIPpeakAnno")
+ #BiocManager::install("ChIPpeakAnno")
 # BiocManager::install("org.Hs.eg.db")
 # BiocManager::install("org.Mm.eg.db")
 
@@ -17,7 +17,7 @@ library(org.Mm.eg.db)
 peaks <- toGRanges(paste0(DATA_DIR, 'H3K4me1_MEL.intersect_with_mouseZDNA1.bed'), format="BED")
 peaks[1:2]
 
-annoData <- toGRanges(TxDb.Mmusculus.UCSC.mm10.knownGene)
+annoData <- toGRanges(TxDb.Mmusculus.UCSC.mm10.knownGene, single.strand.genes.only=FALSE)
 annoData[1:2]
 
 

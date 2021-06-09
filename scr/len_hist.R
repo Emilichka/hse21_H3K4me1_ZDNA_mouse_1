@@ -1,7 +1,7 @@
 source('lib.R')
 
 
-NAME <- c('H3K4me1_MEL.ENCFF086CHI.mm10', 'H3K4me1_MEL.ENCFF267GXF.mm10', 'mouseZ-DNA1' )#'H3K4me1_MEL.intersect_with_mouseZDNA1')
+NAME <- c('H3K4me1_MEL.ENCFF086CHI.mm10', 'H3K4me1_MEL.ENCFF267GXF.mm10', 'mouseZ-DNA1') #'H3K4me1_MEL.intersect_with_mouseZDNA1')
 
 ###
 for (name in NAME) {
