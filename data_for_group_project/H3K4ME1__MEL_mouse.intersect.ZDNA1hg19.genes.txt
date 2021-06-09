@@ -1,0 +1,6 @@
+seqnames	start	end	width	strand	score	peak	feature	feature.ranges.start	feature.ranges.end	feature.ranges.width	feature.strand	distance	insideFeature	distanceToSite	symbol
+chr17	56032263	56032413	151	*	103	curax_10h_14h_Z22_vs_IgG__ZBP1_KO.macs2_peak_376	404093	55938604	56032684	94081	-	0	inside	270	CUEDC1
+chr15	40574289	40574594	306	*	25	curax_10h_14h_Z22_vs_IgG__ZBP1_KO.macs2_peak_1695	100131244	40573645	40574787	1143	-	0	inside	192	ANKRD63
+chr4	99579961	99579976	16	*	68	curax_10h_14h_Z22_vs_IgG__ZBP1_KO.macs2_peak_1925	10098	99391518	99579812	188295	-	148	upstream	148	TSPAN5
+chr16	58497237	58497422	186	*	89	curax_10h_14h_Z22_vs_IgG__ZBP1_KO.macs2_peak_2887	65009	58497549	58547523	49975	+	126	upstream	126	NDRG4
+chrX	19533090	19533125	36	*	98	curax_10h_14h_Z22_vs_IgG__ZBP1_KO.macs2_peak_3224	389840	19378176	19533379	155204	-	0	inside	253	MAP3K15
