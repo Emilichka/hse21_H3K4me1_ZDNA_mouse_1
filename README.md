@@ -57,7 +57,7 @@ Genome version: mm10
    track visibility=dense name="ChIP_merge"  color=50,50,200   description="H3K4me1_MEL.merge.mm10.bed"
    https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.merge.mm10.bed`
 
-5. ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/source_merge.png)
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/Genome_merge.png)
 
    ## Анализ вторичной структуры ДНК 
 
@@ -69,7 +69,7 @@ Genome version: mm10
 
 2. ### Расположение пиков относительно аннотированных генов
 
-![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/chip_seeker.mouseZ-DNA1.plotAnnoPie.png)
+![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/ZDNA.png)
 
 ## Анализ пересечения гистоновой метки и структуры ДНК
 
