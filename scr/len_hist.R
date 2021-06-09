@@ -1,8 +1,7 @@
 source('lib.R')
 
 
-NAME <- c('H3K4me1_MEL.ENCFF086CHI.mm10', 'H3K4me1_MEL.ENCFF267GXF.mm10', 'mouseZ-DNA1')
-NAME <- c('H3K4me1_MEL.intersect_with_mouseZDNA1')
+NAME <- c('H3K4me1_MEL.ENCFF086CHI.mm10', 'H3K4me1_MEL.ENCFF267GXF.mm10', 'mouseZ-DNA1', 'H3K4me1_MEL.intersect_with_mouseZDNA1')
 
 ###
 for (name in NAME) {
@@ -15,6 +14,6 @@ for (name in NAME) {
     geom_histogram() +
     ggtitle(name, subtitle = sprintf('Number of peaks = %s', nrow(bed_df))) +
     theme_bw()
-  ggsave(paste0('len_hist.', name, '.pdf'), path = OUT_DIR)
+  ggsave(paste0('len_hist.', name, '.png'), path = OUT_DIR)
 
 }

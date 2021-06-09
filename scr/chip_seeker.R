@@ -13,7 +13,8 @@ source('lib.R')
 
 NAME <- 'H3K4me1_MEL.ENCFF086CHI.mm10.filtered'
 NAME <- 'H3K4me1_MEL.ENCFF267GXF.mm10.filtered'
-NAME <- 'mouseZ-DNA1'
+NAME <- 'mouseZ-DNA1' 
+NAME <- 'H3K4me1_MEL.intersect_with_mouseZDNA1'
 
 BED_FN <- paste0(DATA_DIR, NAME, '.bed')
 
