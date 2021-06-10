@@ -81,6 +81,8 @@ Genome version: mm10
 
 1. ### Распределение длин участков
 
+   В результате пересечения получилось 95 пиков
+
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.H3K4me1_MEL.intersect_with_mouseZDNA1.png)
 
 2. ### Расположение пиков относительно аннотированных генов
@@ -104,13 +106,13 @@ Genome version: mm10
 
    chr17:1-94,987,271 94,987,271 bp
 
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/inter3.png)
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/Genome_intersect.png)
 
    
 
 5. ### Ассоциация пересечений с генами
 
-   Количество пиков, которые удалось проассоциировать: 1125
+   Количество пиков, которые удалось проассоциировать:95
 
    Количество уникальных генов: 14
 
@@ -120,6 +122,5 @@ Genome version: mm10
 
 ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/go_summary.jpg)
 
-Наиболее важные категории
+Наиболее важных категории нет.
 
-![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/go_analiysis.png)
