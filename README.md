@@ -9,26 +9,26 @@ Genome version: mm10
 
    - #### **ENCFF086CHI**
 
-   Перед фильтрацией
+   Перед фильтрацией - 60235 пиков
 
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.H3K4me1_MEL.ENCFF086CHI.mm10.png)
 
    Выбранный порог длины: 2500
 
-   После фильтрации 
+   После фильтрации - 60194
 
 
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/filter_peaks.H3K4me1_MEL.ENCFF086CHI.mm10.filtered.hist.png)
 
    - #### **ENCFF267GXF**
 
-   Перед фильтрацией
+   Перед фильтрацией - 88012
 
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.H3K4me1_MEL.ENCFF267GXF.mm10.png)
 
    Выбранный порог длины: 2500
 
-   После фильтрации
+   После фильтрации -87623
 
 
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/filter_peaks.H3K4me1_MEL.ENCFF267GXF.mm10.filtered.hist.png)
@@ -48,20 +48,26 @@ Genome version: mm10
 
 3. ### Визуализация пиков и их объединения
 
-4. `track visibility=dense name="ENCFF267GXF"  description="H3K4me1_MEL.ENCFF267GXF.mm10.filtered.bed"
+4. track visibility=dense name="ENCFF267GXF"  description="H3K4me1_MEL.ENCFF267GXF.mm10.filtered.bed"
    https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.ENCFF267GXF.mm10.filtered.bed
 
    track visibility=dense name="ENCFF086CHI"  description="/H3K4me1_MEL.ENCFF086CHI.mm10.filtered.bed"
    https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.ENCFF086CHI.mm10.filtered.bed
 
    track visibility=dense name="ChIP_merge"  color=50,50,200   description="H3K4me1_MEL.merge.mm10.bed"
-   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.merge.mm10.bed`
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.merge.mm10.bed
 
    ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/Genome_merge.png)
+
+   ##### Распределение длин участков
+
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.H3K4me1_MEL.merge.mm10.png)
 
    ## Анализ вторичной структуры ДНК 
 
 Структура - ZDNA_mouse_1
+
+![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/ZDNA.png)
 
 1. ### Распределение длин участков
 
@@ -75,7 +81,7 @@ Genome version: mm10
 
 1. ### Распределение длин участков
 
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/len_hist.H3K4me3_ES_E14.intersect_with_ZDNA.pdf.png-1.png)
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/len_hist.H3K4me1_MEL.intersect_with_mouseZDNA1.png)
 
 2. ### Расположение пиков относительно аннотированных генов
 
@@ -99,7 +105,7 @@ Genome version: mm10
 
    Количество пиков, которые удалось проассоциировать: 1125
 
-   Количество уникальных генов: 1088
+   Количество уникальных генов: 14
 
 6. ### GO анализ
 
