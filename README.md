@@ -75,7 +75,7 @@ Genome version: mm10
 
 2. ### Расположение пиков относительно аннотированных генов
 
-![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/ZDNA.png)
+![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/chip_seeker.mouseZ-DNA1.plotAnnoPie.png)
 
 ## Анализ пересечения гистоновой метки и структуры ДНК
 
