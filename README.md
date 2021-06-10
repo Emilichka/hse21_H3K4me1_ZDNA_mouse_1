@@ -120,7 +120,7 @@ Genome version: mm10
 
 Общая информация
 
-![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/go_summary.jpg)
+![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/GO_analiz.png)
 
 Наиболее важных категории нет.
 
