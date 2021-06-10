@@ -85,21 +85,28 @@ Genome version: mm10
 
 2. ### Расположение пиков относительно аннотированных генов
 
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/chip_seeker.H3K4me3_ES_E14.intersect_with_ZDNA.annopie.pdf.png-1.png)
+   ![alt text](https://github.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/blob/main/graphics/chip_seeker.mouseZ-DNA1.plotAnnoPie.png)
 
    
 
 3. ### Визуализация исходных участков ДНК и пересечения с гистоновой меткой
 
-4. Ссылка на сохраненную сессию: http://genome.ucsc.edu/s/namikhnenko/H3K4me3_ZDNA_ES_E14
+4. track visibility=dense name="H3K4me1_MEL.merge.mm10"  color= 200,0,0 description="H3K4me1_MEL.merge.mm10.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.merge.mm10.bed
 
-   chr1:3,670,546-3,671,504
+   track visibility=dense name=Mouse_ZDNA1"   color=0,200,0 description="mouseZDNA.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/mouseZ-DNA1.bed
+
+   track visibility=dense name="H3K4me1_MEL.intersect_with_mouseZDNA1"  color=0,0,200   description="H3K4me1_MEL.intersect_with_mouseZDNA1.bed"
+   https://raw.githubusercontent.com/Emilichka/hse21_H3K4me1_ZDNA_mouse_1/main/data/H3K4me1_MEL.intersect_with_mouseZDNA1.bed
+
+   Ссылка на сохраненную сессию: https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr17%3A1%2D94987271&hgsid=1124496155_naVTaRbwWv2AUJzXOATBLJsRFcZJ
+
+   chr17:1-94,987,271 94,987,271 bp
 
    ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/inter3.png)
 
-   chr1:4,491,779-4,493,869
-
-   ![alt text](https://github.com/namikhnenko/hse21_H3K4me3_ZDNA_mouse/blob/main/images/inter4.png)
+   
 
 5. ### Ассоциация пересечений с генами
 
